@@ -1,5 +1,5 @@
 userids = {
-[517780469] = true,
-[512345833] = true,
+[517780469] = true, --me
+[512345833] = true, --ark
 }
 return userids
