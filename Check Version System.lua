@@ -1,1 +1,1 @@
-Current = {Version = "v0.6"}
+Current = {Version = "v0.7"}
